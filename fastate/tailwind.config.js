@@ -10,7 +10,7 @@ export default {
         "green" : "#39DB4A",
         "red" : "#FF6868",
         "secondary" : "#555",
-        "primaryBG" :  "FCFCFC" 
+        "primaryBG" :  "#FCFCFC" 
       }
       // fontFamily: {
       //   "primary" : ['Inter', 'sans-serif']
